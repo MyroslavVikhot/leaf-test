@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/leaf-test/static/css/main.1f7c478f.chunk.css",
+    "main.js": "/leaf-test/static/js/main.3fd2bf04.chunk.js",
+    "main.js.map": "/leaf-test/static/js/main.3fd2bf04.chunk.js.map",
+    "runtime-main.js": "/leaf-test/static/js/runtime-main.4ad98cfc.js",
+    "runtime-main.js.map": "/leaf-test/static/js/runtime-main.4ad98cfc.js.map",
+    "static/css/2.d0cc6f20.chunk.css": "/leaf-test/static/css/2.d0cc6f20.chunk.css",
+    "static/js/2.1d9d98c8.chunk.js": "/leaf-test/static/js/2.1d9d98c8.chunk.js",
+    "static/js/2.1d9d98c8.chunk.js.map": "/leaf-test/static/js/2.1d9d98c8.chunk.js.map",
+    "static/js/3.de1a2f57.chunk.js": "/leaf-test/static/js/3.de1a2f57.chunk.js",
+    "static/js/3.de1a2f57.chunk.js.map": "/leaf-test/static/js/3.de1a2f57.chunk.js.map",
+    "index.html": "/leaf-test/index.html",
+    "static/css/2.d0cc6f20.chunk.css.map": "/leaf-test/static/css/2.d0cc6f20.chunk.css.map",
+    "static/css/main.1f7c478f.chunk.css.map": "/leaf-test/static/css/main.1f7c478f.chunk.css.map",
+    "static/js/2.1d9d98c8.chunk.js.LICENSE.txt": "/leaf-test/static/js/2.1d9d98c8.chunk.js.LICENSE.txt",
+    "static/media/Iguana.88eaca97.png": "/leaf-test/static/media/Iguana.88eaca97.png",
+    "static/media/Paca.0e23fa71.png": "/leaf-test/static/media/Paca.0e23fa71.png",
+    "static/media/Sloth.6a36f073.png": "/leaf-test/static/media/Sloth.6a36f073.png",
+    "static/media/style.scss": "/leaf-test/static/media/noto-serif-v9-latin-regular.f687b483.ttf",
+    "static/media/Tiger.b955d6ce.png": "/leaf-test/static/media/Tiger.b955d6ce.png",
+    "static/media/Tucan.c93e904b.png": "/leaf-test/static/media/Tucan.c93e904b.png",
+    "static/media/Intro.scss": "/leaf-test/static/media/intro-3.83b57811.jpg",
+    "static/media/leafLeft.66e48b4a.png": "/leaf-test/static/media/leafLeft.66e48b4a.png",
+    "static/media/leafLogo.6ba636ee.png": "/leaf-test/static/media/leafLogo.6ba636ee.png",
+    "static/media/leafRight.2ca9c136.png": "/leaf-test/static/media/leafRight.2ca9c136.png",
+    "static/media/slick-theme.css": "/leaf-test/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ad98cfc.js",
+    "static/css/2.d0cc6f20.chunk.css",
+    "static/js/2.1d9d98c8.chunk.js",
+    "static/css/main.1f7c478f.chunk.css",
+    "static/js/main.3fd2bf04.chunk.js"
+  ]
+}
