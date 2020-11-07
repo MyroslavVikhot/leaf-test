@@ -1,0 +1,49 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+a:focus {
+  outline: none;
+}
+
+body {
+  font-weight: 400;
+  font-family: 'Spock Pro';
+  font-size: 16px;
+  font-style: normal;
+  color: #fff;
+}
+
+.container {
+  width: 100%;
+  max-width: 1890px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.app {
+  position: relative;
+}
+
+.no-scroll{
+  overflow: hidden;
+}
